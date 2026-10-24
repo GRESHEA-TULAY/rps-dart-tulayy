@@ -19,3 +19,10 @@ and allows players to play multiple rounds.
 3. Run the command:
 
    dart rock_paper_scissors.dart
+## Game Rules
+
+- Rock beats scissors.
+- Scissors beats paper.
+- Paper beats rock.
+- Matching moves result in a tie.
+- The player with the highest score wins.
